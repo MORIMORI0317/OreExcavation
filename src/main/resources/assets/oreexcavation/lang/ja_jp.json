@@ -1,0 +1,12 @@
+{
+  "oreexcavation.key.excavate": "掘り抜く",
+  "oreexcavation.key.shape_toggle": "形状の切り替え",
+  "oreexcavation.key.shape_edit": "形状の編集",
+
+  "oreexcavation.undo.success": "最後に掘り抜いたところを元に戻します...",
+  "oreexcavation.undo.failed.xp": "戻すことに失敗: XPを返還できません",
+  "oreexcavation.undo.failed.items": "戻すことに失敗: アイテムを返還できません",
+  "oreexcavation.undo.failed.obstructed": "戻すことに失敗: エリアが遮られてます",
+  "oreexcavation.undo.failed.no_history": "戻すことに失敗: 元に戻すものがありません",
+  "oreexcavation.undo.failed.disabled": "元に戻すは無効になっています！"
+}
